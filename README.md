@@ -47,12 +47,8 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/mattzx23" target="_blank">
+  <a href="https://www.linkedin.com/in/mattzx23/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
-  <a href="mattzx23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="40" alt="discord logo"  />
   </a>
   <a href="t.me/Mattzx23" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="80" height="40" alt="telegram logo"  />
